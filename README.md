@@ -5,7 +5,7 @@ Hi, I’m Weiyu! I’m a passionate developer with a knack for creating efficien
 
 
 - :seedling: I’m currently exploring **Java** and **Python**.
-- :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**.
+- :handshake: I’m looking to collaborate on **open-source projects** and **AI native applications**.
 - :speech_balloon: Ask me about **C#**, **JavaScript**, and **web automation**.
 - :mailbox: How to reach me: [ftwithyong@gmail.com](ftwithyong@gmail.com)
 - :zap: Fun fact: I love indoor climbing but have been stuck with 5C for a while:P Also, I do voice covers as a hobby.
